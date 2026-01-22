@@ -37,12 +37,12 @@
     },
     "letter": {
       "greeting": "Dear Hackers, Musicians, and Artists,",
-      "paragraph1": "Welcome to Hack Club's newest adventure. This winter we invite you to join us for Campfire, the world's biggest Game Jam happening simultaneously in 200 cities.",
-      "paragraph2": "Hack Club wants you to make a game this February.",
-      "paragraph3": "Don't consider yourself a game dev? No problem - we have tons of in-person workshops for you to make your first game!",
-      "paragraph4": "This winter, we invite you to learn something new, make something you're really proud of, meet new friends, and go on an incredible adventure together.",
+      "paragraph1": "Welcome to Hack Club's newest adventure. This spring we invite you to join us for Campfire, the world's biggest Game Jam happening simultaneously in 200 cities.",
+      "paragraph2": "Hack Club wants YOU to make a game this February 28th to March 1st.",
+      "paragraph3": "Don't consider yourself a game developer? No problem! We have tons of in-person workshops for you to make your first game, NO experience needed!",
+      "paragraph4": "Come participate to learn something new, make a game you're proud of, meet new friends and have tons of fun!",
       "closing": "With love,",
-      "signature": "The Campfire Team"
+      "signature": "The Campfire Miami Team"
     },
     "footer": {
       "tagline": "made with love by Hack Club & Open Sauce",
@@ -105,7 +105,7 @@
           },
           {
             "question": "Am I eligible?",
-            "answer": "If you're a high schooler (or younger), you're eligible! No prior experience required - just bring your enthusiasm and willingness to learn."
+            "answer": "If you're a high schooler (or younger, between ages 13-18), you're eligible! No prior experience required - just bring your enthusiasm and willingness to learn."
           },
           {
             "question": "But I've never hacked before!",
