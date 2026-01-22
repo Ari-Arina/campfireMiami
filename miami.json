@@ -81,20 +81,6 @@
             { "time": "6:45-7:30 PM", "activity": "Just Dance" },
             { "time": "7:35-7:45 PM", "activity": "Semi-Closing" }
           ]
-          "date": "Mar 1st",
-          "items": [
-            { "time": "7:45 AM", "activity": "Doors open" },
-            { "time": "8:00-8:45", "activity": "Progress Check" },
-            { "time": "9:00-9:45 AM", "activity": "Make Smores!" },
-            { "time": "10:15 AM-12:15 PM", "activity": "Game Designers and Developers Panel" },
-            { "time": "12:45-1:45 PM", "activity": "Lunch" },
-            { "time": "2:00-3:00 PM", "activity": "How to Present to Judges your Project" },
-            { "time": "3:00-3:30 PM", "activity": "Scavenger Hunt" },
-            { "time": "4:00-4:15 PM", "activity": "Last hour work!" },
-            { "time": "6:00-7:00 PM", "activity": "Project Pitch and Dinner" },
-            { "time": "6:45-7:30 PM", "activity": "Karaoke" },
-            { "time": "7:35-7:45 PM", "activity": "Closing" }
-          ]
         }
       ]
     },
@@ -104,11 +90,6 @@
           "sponsor": "Hack Club",
           "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
           "link": "https://hackclub.com"
-        },
-        {
-          "sponsor": "Code Crafters",
-          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769046782/CodeCrafters.io_full_logo_full_text_White_text_hfpnr5.png"
-          "link": "https://codecrafters.io"
         }
       ]
     },
