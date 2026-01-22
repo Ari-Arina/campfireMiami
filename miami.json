@@ -91,6 +91,11 @@
           "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
           "link": "https://hackclub.com"
         }
+      ],
+      "cards": [
+        "sponsor": "Code Crafters",
+        "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769110691/codecrafters_anctro.svg",
+        "link": "https://codecrafters.io"
       ]
     },
     "signatures": false,
