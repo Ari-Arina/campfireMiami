@@ -104,6 +104,11 @@
           "sponsor": "Hack Club",
           "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
           "link": "https://hackclub.com"
+        },
+        {
+          "sponsor": "Code Crafters",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769046782/CodeCrafters.io_full_logo_full_text_White_text_hfpnr5.png"
+          "link": "https://codecrafters.io"
         }
       ]
     },
