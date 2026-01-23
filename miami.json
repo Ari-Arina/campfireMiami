@@ -106,6 +106,16 @@
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769187169/Library-Logo-640x360_iy2p7e.png",
           "link": "https://www.aseprite.org"
         }
+        {
+          "sponsor": "Cards Against Humanity",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769188268/featuring-CAH-white_c9c0em.png",
+          "link": "https://www.cardsagainsthumanity.com"
+        }
+        {
+          "sponsor": "Science Ambassador Scholarship",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769188407/SAS_Horizontal-Black_w7v54c.png",
+          "link": "https://www.scienceambassadorscholarship.org"
+        }
       ]
     },
     "signatures": false,
