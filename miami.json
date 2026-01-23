@@ -93,8 +93,18 @@
         },
         {
           "sponsor": "Code Crafters",
-          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769110691/codecrafters_anctro.svg",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769184463/Logomark_With_color_copy_f4harn.png",
           "link": "https://codecrafters.io"
+        }
+        {
+          "sponsor": "CleanShot X",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769184675/logo_x15bcl.svg",
+          "link": "https://cleanshot.com"
+        }
+        {
+          "sponsor": "Aseprite",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769187169/Library-Logo-640x360_iy2p7e.png",
+          "link": "https://www.aseprite.org"
         }
       ]
     },
