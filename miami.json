@@ -93,7 +93,7 @@
             { "time": "12:45-1:45 PM", "activity": "Lunch" },
             { "time": "2:30-3:30 PM", "activity": "S'more Activity" },
             { "time": "5:00-6:00 PM", "activity": "Dinner" },
-            { "time": "6:00 PM", "activity": "Game Submission Due!" },
+            { "time": "7:00 PM", "activity": "Game Submission Due!" },
             { "time": "7:00-7:45 PM", "activity": "Present final game!" },
             { "time": "6:45-7:30 PM", "activity": "Closing" },
             { "time": "8:00 PM", "activity": "Closing Doors" }
