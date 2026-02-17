@@ -72,16 +72,15 @@
           "date": "Feb 28th (Tentative)",
           "items": [
             { "time": "7:45 AM", "activity": "Doors open" },
-            { "time": "8:00-8:45 AM", "activity": "Icebreakers, Team Formation + Breakfast" },
+            { "time": "8:00-8:45 AM", "activity": "Breakfast, Icebreakers, and Team Formation" },
             { "time": "9:00-9:45 AM", "activity": "Opening Ceremony" },
             { "time": "10:30-11:30 AM", "activity": "GitHub Workshop" },
-            { "time": "12:00-12:45 PM", "activity": "Gamemarker Workshop" },
+            { "time": "12:00-12:45 PM", "activity": "Gamemarker and Ren'Py Workshop" },
             { "time": "1:00-2:00 PM", "activity": "Lunch" },
-            { "time": "2:15-3:00 PM", "activity": "Ren'Py" },
-            { "time": "3:15-4:00 PM", "activity": "Progress Check #1"},
-            { "time": "4:15-4:45 PM", "activity": "Game Time!" },
-            { "time": "5:00-5:45 PM", "activity": "Godot Workshop"},
-            { "time": "6:00-7:00 PM", "activity": "Dinner and HackClub Websites" },
+            { "time": "2:30-3:30 PM", "activity": "Godot Workshop" },
+            { "time": "4:00-5:00 PM", "activity": "Game Time!"},
+            { "time": "5:30-6:00 PM", "activity": "Progress Check #1"},
+            { "time": "6:30-7:15 PM", "activity": "Dinner and HackClub Websites" },
             { "time": "7:30-7:45 PM", "activity": "Semi-Closing" },
             { "time": "8:00 PM", "activity": "Closing Doors" }
           ]
