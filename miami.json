@@ -199,6 +199,11 @@
         "buttonText": "Check out the parent guide",
         "buttonLink": "https://docs.google.com/document/d/1aa2rgIViOjB1Mra2ClgKyXMPKulYUhM0FbtZ95uVfHM/edit?usp=sharing"
       }
+    },
+    "contactUs": {
+      "email": "miami@campfire.hackclub.com",
+      "instagram": "campfiremiami",
+      "linkedin": "campfire-miami"
     }
   }
 }
