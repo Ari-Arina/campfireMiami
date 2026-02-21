@@ -53,9 +53,7 @@
         { "text": "Hack Club", "href": "https://hackclub.com/" },
         { "text": "Slack", "href": "https://hackclub.com/slack" },
         { "text": "Clubs", "href": "https://hackclub.com/clubs" },
-        { "text": "Code of Conduct", "href": "https://hackclub.com/conduct/" },
-        { "text": "Instagram", "href": "https://www.instagram.com/campfiremiami/"},
-        { "text": "LinkedIn", "href": "https://www.linkedin.com/company/campfire-miami/posts/?feedView=all"}
+        { "text": "Code of Conduct", "href": "https://hackclub.com/conduct/" }
       ]
     }
   },
