@@ -73,12 +73,12 @@
             { "time": "8:00-8:45 AM", "activity": "Breakfast, Icebreakers, and Team Formation" },
             { "time": "9:00-9:45 AM", "activity": "Opening Ceremony" },
             { "time": "10:30-11:30 AM", "activity": "GitHub Workshop" },
-            { "time": "12:00-12:45 PM", "activity": "Gamemarker and Ren'Py Workshop" },
+            { "time": "12:00-12:45 PM", "activity": "Gamemaker and Ren'Py Workshop" },
             { "time": "1:00-2:00 PM", "activity": "Lunch" },
             { "time": "2:30-3:30 PM", "activity": "Godot Workshop" },
             { "time": "4:00-5:00 PM", "activity": "Game Time!"},
             { "time": "5:30-6:00 PM", "activity": "Progress Check #1"},
-            { "time": "6:30-7:15 PM", "activity": "Dinner and HackClub Websites" },
+            { "time": "6:30-7:15 PM", "activity": "Dinner" },
             { "time": "7:30-7:45 PM", "activity": "Semi-Closing" },
             { "time": "8:00 PM", "activity": "Closing Doors" }
           ]
@@ -143,6 +143,16 @@
           "sponsor": "Aseprite",
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769187169/Library-Logo-640x360_iy2p7e.png",
           "link": "https://www.aseprite.org"
+        },
+        {
+          "sponsor": "CraftPix",
+          "logo": "https://cdn.hackclub.com/019c83c3-7a24-707d-9f6b-e30cd9cbfe04/CraftPix_logo_svg.svg",
+          "link": "https://craftpix.net"
+        },
+        {
+          "sponsor": "Deaveris",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772033235/94448a6d-fd9c-436b-91a9-4a70096e4aaa.png",
+          "link": "https://www.deaveris.com"
         },
         {
           "sponsor": "Cards Against Humanity",
