@@ -67,7 +67,7 @@
     "schedule": {
       "days": [
         {
-          "date": "Feb 28th (Tentative)",
+          "date": "Feb 28th",
           "items": [
             { "time": "7:45 AM", "activity": "Doors open" },
             { "time": "8:00-8:45 AM", "activity": "Breakfast, Icebreakers, and Team Formation" },
@@ -79,12 +79,12 @@
             { "time": "4:00-5:00 PM", "activity": "Game Time!"},
             { "time": "5:30-6:00 PM", "activity": "Progress Check #1"},
             { "time": "6:30-7:15 PM", "activity": "Dinner" },
-            { "time": "7:30-7:45 PM", "activity": "Semi-Closing" },
+            { "time": "7:30-7:45 PM", "activity": "Semi-Closing Ceremony" },
             { "time": "8:00 PM", "activity": "Closing Doors" }
           ]
         },
         {
-          "date": "March 1st (Tentative)",
+          "date": "March 1st",
           "items": [
             { "time": "7:45 AM", "activity": "Doors open" },
             { "time": "8:00-9:00 AM", "activity": "Breakfast + Quick Opening" },
@@ -92,10 +92,11 @@
             { "time": "12:00-12:45 PM", "activity": "Just Dance Party" },
             { "time": "1:00-2:00 PM", "activity": "Lunch" },
             { "time": "2:30-3:30 PM", "activity": "S'more Activity" },
+            { "time": "4:30-5:00 PM", "activity": "Game Submission Rush!" },
             { "time": "5:00 PM", "activity": "Game Submission Due!" },
             { "time": "5:00-5:45 PM", "activity": "Present final game!" },
             { "time": "6:00-7:00 PM", "activity": "Dinner" },
-            { "time": "7:00-7:45 PM", "activity": "Closing" },
+            { "time": "7:00-7:45 PM", "activity": "Closing Ceremony" },
             { "time": "8:00 PM", "activity": "Closing Doors" }
           ]
         }  
@@ -108,7 +109,16 @@
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1770492596/image_kxxvf8.png",
           "link": "https://www.bigduckgames.com"
         },       
-
+        {
+          "sponsor": "Lart Construction & Maintenance Corp.",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772203717/5742ce3b-92f1-4340-a0e8-368c36abf3ed.png",
+          "link": "construction.lart@gmail.com"
+        },
+        {
+          "sponsor": "Deaveris",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772036374/924cfe80-64a1-4b74-ad55-1924cf2f39f3_removalai_preview_ilsdcw.png",
+          "link": "https://www.deaveris.com"
+        },
         {
           "sponsor": "ePeak Arts LLC",
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1770323517/fca8c5ef-4373-470c-8e19-c3cc3779bc73.png",
@@ -120,20 +130,25 @@
           "link": "https://www.wyndhamhotels.com/es-xl"
         },
         {
+          "sponsor": "Code Crafters",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769184463/Logomark_With_color_copy_f4harn.png",
+          "link": "https://codecrafters.io"
+        },
+        {
           "sponsor": "Hack Club",
           "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
           "link": "https://hackclub.com"
+        },
+        {
+          "sponsor": "Attendance Genius",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772204286/image_ef34bs.png",
+          "link": "https://attendancegenius.com"
         },
         {
           "sponsor": "Open Sauce",
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769373269/open_sauce_hiiemv.svg",
           "link": "https://opensauce.com"
         },  
-        {
-          "sponsor": "Code Crafters",
-          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769184463/Logomark_With_color_copy_f4harn.png",
-          "link": "https://codecrafters.io"
-        },
         {
           "sponsor": "CleanShot X",
           "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1769184675/logo_x15bcl.svg",
@@ -145,14 +160,9 @@
           "link": "https://www.aseprite.org"
         },
         {
-          "sponsor": "CraftPix",
-          "logo": "https://cdn.hackclub.com/019c83c3-7a24-707d-9f6b-e30cd9cbfe04/CraftPix_logo_svg.svg",
-          "link": "https://craftpix.net"
-        },
-        {
-          "sponsor": "Deaveris",
-          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772036374/924cfe80-64a1-4b74-ad55-1924cf2f39f3_removalai_preview_ilsdcw.png",
-          "link": "https://www.deaveris.com"
+          "sponsor": ".xyz",
+          "logo": "https://res.cloudinary.com/dspviyfw0/image/upload/v1772204019/image_xaa0rc.png",
+          "link": "https://gen.xyz"
         },
         {
           "sponsor": "Cards Against Humanity",
